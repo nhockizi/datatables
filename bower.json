@@ -1,9 +1,9 @@
 {
   "name": "nhockizi-datatables",
   "main": [
-    "library/js/jquery.dataTables.min.js",
-    "library/js/dataTables.fixedColumns.min.js",
-    "library/css/jquery.dataTables.min.css",
+    "library/js/jquery.dataTables.js",
+    "library/js/dataTables.fixedColumns.js",
+    "library/css/jquery.dataTables.css",
     "library/images/sort_asc.png",
     "library/images/sort_asc_disabled.png",
     "library/images/sort_both.png",
