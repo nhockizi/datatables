@@ -1,5 +1,5 @@
 {
-  "name": "datatables",
+  "name": "nhockizi-datatables",
   "main": [
     "library/js/jquery.dataTables.min.js",
     "library/js/dataTables.fixedColumns.min.js",
