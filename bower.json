@@ -6,21 +6,20 @@
   ],
   "description": "",
   "main": [
-    "js/jquery.dataTables.min.js",
-    "js/dataTables.fixedColumns.min.js",
-    "css/jquery.dataTables.min.css",
-    "images/sort_asc.png",
-    "images/sort_asc_disabled.png",
-    "images/sort_both.png",
-    "images/sort_desc.png",
-    "images/sort_desc_disabled.png"
+    "library/js/jquery.dataTables.min.js",
+    "library/js/dataTables.fixedColumns.min.js",
+    "library/css/jquery.dataTables.min.css",
+    "library/images/sort_asc.png",
+    "library/images/sort_asc_disabled.png",
+    "library/images/sort_both.png",
+    "library/images/sort_desc.png",
+    "library/images/sort_desc_disabled.png"
   ],
   "license": "MIT",
   "private": true,
   "ignore": [
     "/.*",
     "examples",
-    "media/unit_testing",
     "composer.json",
     "dataTables.jquery.json",
     "package.json"
