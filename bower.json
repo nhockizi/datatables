@@ -1,9 +1,5 @@
 {
   "name": "datatables",
-  "homepage": "https://github.com/nhockizi/datatables",
-  "authors": [
-    "kizi nhoc <nhockizi@gmail.com>"
-  ],
   "description": "",
   "main": [
     "library/js/jquery.dataTables.min.js",
@@ -15,13 +11,14 @@
     "library/images/sort_desc.png",
     "library/images/sort_desc_disabled.png"
   ],
-  "license": "MIT",
-  "private": true,
   "ignore": [
     "/.*",
     "examples",
     "composer.json",
     "dataTables.jquery.json",
     "package.json"
-  ]
+  ],
+  "dependencies": {
+    "datatables": "^1.10.12"
+  }
 }
