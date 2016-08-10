@@ -1,0 +1,28 @@
+{
+  "name": "datatables",
+  "homepage": "https://github.com/nhockizi/datatables",
+  "authors": [
+    "kizi nhoc <nhockizi@gmail.com>"
+  ],
+  "description": "",
+  "main": [
+    "js/jquery.dataTables.min.js",
+    "js/dataTables.fixedColumns.min.js",
+    "css/jquery.dataTables.min.css",
+    "images/sort_asc.png",
+    "images/sort_asc_disabled.png",
+    "images/sort_both.png",
+    "images/sort_desc.png",
+    "images/sort_desc_disabled.png"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "/.*",
+    "examples",
+    "media/unit_testing",
+    "composer.json",
+    "dataTables.jquery.json",
+    "package.json"
+  ]
+}
