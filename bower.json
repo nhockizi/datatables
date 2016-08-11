@@ -2,12 +2,7 @@
   "name": "nhockizi-datatables",
   "main": [
     "library/js/jquery.dataTables.js",
-    "library/css/jquery.dataTables.css",
-    "library/images/sort_asc.png",
-    "library/images/sort_asc_disabled.png",
-    "library/images/sort_both.png",
-    "library/images/sort_desc.png",
-    "library/images/sort_desc_disabled.png"
+    "library/css/jquery.dataTables.css"
   ],
   "dependencies": {
     "jquery": ">=1.7.0"
