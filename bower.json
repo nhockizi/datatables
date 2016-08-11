@@ -9,6 +9,9 @@
     "library/images/sort_desc.png",
     "library/images/sort_desc_disabled.png"
   ],
+  "dependencies": {
+    "jquery": ">=1.7.0"
+  },
   "keywords": [
     "jquery",
     "datatables",
@@ -23,7 +26,4 @@
     "dataTables.jquery.json",
     "package.json"
   ],
-  "dependencies": {
-    "datatables": "^1.10.12"
-  }
 }
