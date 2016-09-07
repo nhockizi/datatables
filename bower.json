@@ -20,5 +20,6 @@
     "composer.json",
     "dataTables.jquery.json",
     "package.json"
-  ]
+  ],
+  "version": "1.0.0"
 }
